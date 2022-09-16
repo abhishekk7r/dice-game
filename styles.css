@@ -4,7 +4,7 @@
   text-align: center;
 }
 .dice {
-  display:inline-block ;
+  display: inline-block;
   text-align: center;
 }
 
@@ -24,6 +24,10 @@ p {
   color: #4ecca3;
   font-family: "Indie Flower", cursive;
   font-size: 2rem;
+}
+
+img {
+  width: 80%;
 }
 
 a {
