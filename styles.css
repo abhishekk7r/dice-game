@@ -40,3 +40,14 @@ a {
   margin-top: 7%;
   color: #eeeeee;
 }
+
+.btn {
+  margin-top: 40px;
+}
+
+.btn button {
+  width: 100px;
+  height: 40px;
+  border-radius: 5px;
+  font-size: 20px;
+}

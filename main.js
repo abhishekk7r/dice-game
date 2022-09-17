@@ -29,8 +29,10 @@ if (randomNumber > randomNumber2) {
   document.querySelector("h1").innerHTML = "No Winner";
 }
 
-
-
+const refBtn = document.querySelector(".onClick");
+refBtn.addEventListener("click", () => {
+  location.reload();
+});
 
 // var randomNumber1 = Math.floor(Math.random() * 6) + 1; //1-6
 
